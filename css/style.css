@@ -1,0 +1,14 @@
+#logo
+	{
+    height: 46px;
+    position: absolute;
+    width: 60px;
+    top: 0px;
+}
+.select-option{
+	padding: 20px;
+    background: firebrick;
+    color: white;
+    border-radius: 23px;
+    font-family: segoe ui light;
+}
